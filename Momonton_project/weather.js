@@ -2,7 +2,7 @@ const weather = document.querySelector(".js-weather");
 const date = document.querySelector(".js-weather");
 
 // Where? - Open Weather Site
-const API_KEY = "3025a79fc1eb1babd9f283cabc6f0bc8"
+
 
 
 const COORDS = 'coords';
